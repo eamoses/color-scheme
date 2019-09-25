@@ -1,0 +1,51 @@
+html {
+    font-family: Avenir;
+}
+body {
+    background-color: rgb(39, 37, 38);
+    margin: 0;
+}
+nav {
+    color: rgb(235, 229, 218);
+    background-color: rgb(70,57,62);
+    height: auto;
+    width: 100vw;
+    font-size: 18px;
+    padding: 10px;
+}
+.container {
+    margin: 50px;
+}
+h1 {
+    color: rgb(178, 43, 25)
+}
+h2 {
+    color: rgb(199, 89, 35)
+}
+h3 {
+    color: rgb(211, 144, 38)
+}
+h4 {
+    color: rgb(103, 160, 142)
+}
+h5 {
+    color: rgb(84, 137, 188)
+}
+h6 {
+    color: rgb(235, 210, 171)
+}
+footer {
+    color: rgb(235, 229, 218);
+    bottom:0;
+    background-color: rgb(70,57,62);
+    height: auto;
+    width: 100vw;
+    font-size: 14px;
+    padding: 5px;
+    text-align: center;
+    position:absolute;
+}
+footer a {
+    color: rgb(235, 229, 218);
+    text-decoration: none;
+}
